@@ -1,2 +1,5 @@
 first file
+
 feature1 changes
+
+Feature2
